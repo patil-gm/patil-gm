@@ -1,4 +1,4 @@
-👋 Hey there, 
+👋 Hey , 
 - I’m @patil-gm
 - 👀 I’m interested in cloud computing and devlopement 
 - 🌱 I’m currently learning full stack (MERN) & ios devlopement
