@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ghanashyam Patil</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patil-gm" alt="patil-gm" /></a> </p>
 
 - 🔭 I’m currently working on **MERN Stack Project**
 
